@@ -1,0 +1,3 @@
+name = "VRL"
+grammar = "vrl"
+path_suffixes = ["vrl"]
