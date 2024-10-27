@@ -1,5 +1,5 @@
-id = "zed-vrl"
-name = "VRL extension for Zed"
+id = "vrl"
+name = "VRL"
 version = "0.1.0"
 schema_version = 1
 
